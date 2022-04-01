@@ -1,0 +1,7 @@
+PHONEBOOK APPLICATION
+
+INTRODUCTION
+Phonebook is a mini project in C  programming that can help us understand the basic concept of functions, file handling and data structure. This application will teach  how to Add, show total number of contacts in the form of list, modifying  or editing the contact information, search and delete data from the file.
+
+
+Adding new contacts, listing them, modifying them and updating, search for contacts saved, and deleting the contacts from the Phonebook are the basic functions which make up the main menu of this Phonebook application
